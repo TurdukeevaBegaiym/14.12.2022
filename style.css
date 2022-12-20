@@ -1,3 +1,38 @@
+
 *{
   box-sizing: border-box;
 }
+body {
+  margin: 0;
+}
+ header {
+ max-width: 100%;
+ 
+}
+section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+section.section-one {
+  background-color: #EDEDED;
+  display: flex;
+  justify-content: center;
+  height: 43px;
+}
+section.section-two {
+  background-color: #FBFBFB;
+  padding: 10px;
+}
+
+.textikon {
+  width: 141px;
+  height: 27px;
+}
+.buttonpink {
+  width: 117px;
+  height: 36px;
+}
+
+
